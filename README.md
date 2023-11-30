@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wolfie011
 - 👀 I’m interested in JavaScript/Java and C#
-- 🌱 I’m currently learning GameDev 
+- 🌱 I’m currently learning GameDev, WebAPP's
 - 💞️ I’m looking to collaborate prety much anything
 - 📫 How to reach me : Discord at miszka#5373
 
